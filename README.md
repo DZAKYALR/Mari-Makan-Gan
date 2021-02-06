@@ -1,16 +1,16 @@
 # Mari Makan Gan
 >Feature :
-- >✔ Redux
-- >✔ React router
-- >✔ React lifecycle
-- >✔ React function components
-- >✔ 3rd party api  (meal-db)
+- ✔ Redux
+- ✔ React router
+- ✔ React lifecycle
+- ✔ React function components
+- ✔ 3rd party api  (meal-db)
 
 >🚀 Rocket :
-- >✔ Debounce
+- ✔ Debounce
  
 >🔨 Deploy : 
-- >✔ [https://mari-makan-gan.web.app/](https://mari-makan-gan.web.app/)
+- ✔ [https://mari-makan-gan.web.app/](https://mari-makan-gan.web.app/)
 
 # Getting Started with Create React App
 
